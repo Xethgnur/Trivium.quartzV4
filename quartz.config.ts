@@ -6,9 +6,7 @@ const config: QuartzConfig = {
     pageTitle: "Trivium of Time",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      null
-    },
+    analytics: null,
     baseUrl: "trivium-quartzv4.pages.dev",
     ignorePatterns: ["private", "templates"],
     theme: {
