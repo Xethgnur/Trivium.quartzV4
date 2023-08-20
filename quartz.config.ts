@@ -7,7 +7,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
-    baseUrl: ,
+    baseUrl: 
     ignorePatterns: ["private", "templates"],
     theme: {
       typography: {
