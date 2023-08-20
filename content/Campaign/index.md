@@ -1,3 +1,8 @@
+---
+title: Campaign Knowledge Tome
+draft: false
+---
+
 # Campaign
 %% Begin Waypoint %%
 - **[[Campaign]]**
