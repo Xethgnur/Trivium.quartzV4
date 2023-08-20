@@ -3,13 +3,13 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Trivium of Time",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      null",
     },
-    baseUrl: "four.quartz.jzhao.xyz",
+    baseUrl: "trivium-quartzv4.pages.dev",
     ignorePatterns: ["private", "templates"],
     theme: {
       typography: {
