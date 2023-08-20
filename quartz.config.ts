@@ -7,7 +7,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      null",
+      null
     },
     baseUrl: "trivium-quartzv4.pages.dev",
     ignorePatterns: ["private", "templates"],
