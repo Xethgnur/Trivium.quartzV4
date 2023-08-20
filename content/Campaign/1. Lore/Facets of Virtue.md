@@ -1,0 +1,3 @@
+![[Facets of Virtue-1691712539467.jpeg]]
+
+Rumoured stones of incredible power, these crystals have been lost to the world for some time. Each one represents a major element that holds the material plane together, and follows a certain philosophy behind each element. However, the reality of the existence of the stones is nothing more than a fable at best...
