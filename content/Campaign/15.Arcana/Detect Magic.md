@@ -5,8 +5,6 @@ range: Self
 components: V, S 
 duration: Concentration, 10 minutes
 school: Divination
-attack: -
-damage: -
 ---
 
 > [!infobox]+
